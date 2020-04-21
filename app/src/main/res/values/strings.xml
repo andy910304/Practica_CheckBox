@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Practica_CheckBox</string>
+    <string name="txt_valor1">Dame el primer valor</string>
+    <string name="txt_valor2">Dame el segundo valor</string>
+    <string name="check_suma">Suma</string>
+    <string name="check_resta">Restar</string>
+    <string name="Button">Calcular</string>
+    <string name="tv_resultado">Resultado</string>
+
+</resources>
